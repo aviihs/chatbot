@@ -121,3 +121,7 @@ If you have any questions, feel free to reach out:
 📧 **Email**: bhusalshiva010@gmail.com  
 🐙 **GitHub**: [aviihs](https://github.com/aviihs)  
 🚀 **Website**: [Shiva Bhusal](http://bhusalshiva.com.np)
+
+## Live preview at : 
+🟢 **Live**: [CLICK HERE.](https://chatbot-aviihs.netlify.app/) 
+
