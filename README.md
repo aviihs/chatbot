@@ -12,10 +12,10 @@ Welcome to **AI Chatbot**, a modern and responsive chatbot built using **React**
 
 ## 📸 Screenshots
 - 💻 **Desktop View**:
-<img src="src/assets/imgs/Desktopview.png" width="400" />
+<img src="src/assets/imgs/Desktopview.png" width="600px" />
 
 - 📱 **Mobile View**:
-<img src="src/assets/imgs/Mobileview.png" width="400" />
+<img src="src/assets/imgs/Mobileview.png" width="300" />
 
 ## 🚀 Installation & Setup
 
